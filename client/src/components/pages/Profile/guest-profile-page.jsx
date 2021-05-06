@@ -26,7 +26,7 @@ const GuestProfilePage = ({ fetchProfileById, match, profile, loading }) => {
 
 			{loading && <PreLoader />}
 
-			{profile && (
+			{!loading && profile && (
 				<div className='container'>
 					<ProfilleActions />
 					<ProfileHeader profile={profile} />

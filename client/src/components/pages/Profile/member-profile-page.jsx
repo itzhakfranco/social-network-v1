@@ -23,7 +23,7 @@ const MemberProfilePage = ({ fetchUserProfile, profile, loading, user_id }) => {
 			</div>
 
 			{loading && <PreLoader />}
-			{profile && (
+			{!loading && profile && (
 				<div className='container'>
 					<ProfilleActions profile={profile} user_id={user_id} />
 					<ProfileHeader profile={profile} />
