@@ -1,0 +1,20 @@
+{
+  "apiUrl": "http://localhost:7777/api",
+  "swalConfirmDelete": {
+    "title": "Are you sure you want to delete?",
+    "showCancelButton": true,
+    "focusConfirm": false,
+    "confirmButtonText": "Delete",
+    "cancelButtonText": "Cancel",
+    "confirmButtonColor": "#dc3545"
+  },
+  "statusOptions": [
+    { "id": 0, "value": "", "name": "Select Status" },
+    { "id": 1, "value": "developer", "name": "Developer" },
+    { "id": 2, "value": "Junior Developer", "name": "Junior Developer" },
+    { "id": 3, "value": "manager", "name": "Manager" },
+    { "id": 4, "value": "instructor", "name": "Instructor" },
+    { "id": 5, "value": "intern", "name": "Intern" },
+    { "id": 6, "value": "other", "name": "Other" }
+  ]
+}

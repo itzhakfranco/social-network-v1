@@ -1,0 +1,5 @@
+{"_id":{"$oid":"5f3d30ef9d51d4e52f8d9ed5"},"name":"melissa","email":"melissa.fleming@example.com","password":"$2a$10$Cb6e0ZEDMZfowKX/e3iU.OZzuRRWNKs8zRQhuklU4qMaUeVyItVfi","createdAt":{"$date":"2020-08-19T14:02:23.339Z"},"__v":0}
+{"_id":{"$oid":"5f3d31109d51d4e52f8d9ed7"},"name":"christoffer","email":"christiansen@example.com","password":"$2a$10$NTM0iXbRC39cQ0bN/CHrieZSr.7FiUSH842oKbI1WHKPdRpupNZjG","createdAt":{"$date":"2020-08-19T14:02:56.263Z"},"__v":0}
+{"_id":{"$oid":"5f3d31299d51d4e52f8d9ed9"},"name":"todd","email":"todd.beck@example.com","password":"$2a$10$Sfv0gcg4dl0sycdPNqpQ/uoZ9roI0WgSvo/J8JSi.dKioeqDbvFka","createdAt":{"$date":"2020-08-19T14:03:21.627Z"},"__v":0}
+{"_id":{"$oid":"5f3d313d9d51d4e52f8d9edb"},"name":"kayla","email":"kayla.hall@example.com","password":"$2a$10$tzRqAZCTryps/KYd0zCykOefChd3omHCW7tEqVwMRcGP6wUCdD.GW","createdAt":{"$date":"2020-08-19T14:03:41.418Z"},"__v":0}
+{"_id":{"$oid":"5f3d31519d51d4e52f8d9edd"},"name":"jimmie","email":"jimmie.simmons@example.com","password":"$2a$10$yPk69v0MVZXKblzYcmf0tua/ywLqAVru37KNV5SAC4chl7nhhn9uS","createdAt":{"$date":"2020-08-19T14:04:01.231Z"},"__v":0}
